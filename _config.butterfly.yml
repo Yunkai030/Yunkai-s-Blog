@@ -15,3 +15,8 @@ live2d:
     height: 300
   mobile:
     show: false
+
+# 首页顶部的全屏大图
+index_img: https://images3.alphacoders.com/100/thumb-1920-1005695.jpg
+# 文章页、分类页等其他页面的顶部背景图
+default_top_img: https://images.unsplash.com/photo-1518770660439-4636190af475
