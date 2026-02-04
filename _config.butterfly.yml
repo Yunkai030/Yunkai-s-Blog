@@ -24,3 +24,8 @@ default_top_img: https://images6.alphacoders.com/129/thumb-1920-1295071.jpg
 
 # 网站小图标
 favicon: /favicon.ico
+
+# 你的个人信息卡片配置
+avatar:
+  img: /Image/furuya-mero.jpg  # 这里填写刚才存放的路径
+  effect: true            # 如果设为 true，鼠标悬停时头像会旋转，非常二次元
