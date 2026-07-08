@@ -1,8 +1,8 @@
 ---
-title: From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond
-date: 2026-07-08 04:00:00
-tags: [AI, Explainable AI, Cyber-Physical Systems, IoT, Physics-Inspired]
-categories: 技术动态
+title: "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond"
+date: "2026-07-08 04:00:00"
+tags: ["AI", "Explainable AI", "Cyber-Physical Systems", "IoT", "Physics-Inspired"]
+categories: "技术动态"
 ---
 
 ## 事件/论文/产品概述
